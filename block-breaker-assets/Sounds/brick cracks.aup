@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="brick cracks_data" version="1.3.0" audacityversion="2.1.0" sel0="1.1842176871" sel1="1.9156462585" vpos="0" h="0.0000000000" zoom="86.1328125000" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds">
+	<tags>
+		<tag name="GENRE" value="Sound Effect"/>
+		<tag name="YEAR" value="2015"/>
+		<tag name="ARTIST" value="Terry Song"/>
+	</tags>
+	<wavetrack name="Cracking Chest Open-SoundBible.com-2009973824" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="100290">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000233.au" len="100290" min="-0.897879" max="1.003168" rms="0.063622"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Cracking Chest Open-SoundBible.com-2009973824" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="100290">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000f65.au" len="100290" min="-0.892338" max="0.865013" rms="0.047013"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
